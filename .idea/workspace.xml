@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
+      <change beforePath="$PROJECT_DIR$/SortedListOfNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/SortedListOfNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_for_merging.py" beforeDir="false" afterPath="$PROJECT_DIR$/SortingByCounting.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/NewTasks_copy" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/QuadraticEquation.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jpPmTxTbfzYMzh9WOfvxcEDoyZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.ClassForQuadraticEquation.executor": "Run",
+    "Python.QuadraticEquation.executor": "Run",
+    "Python.SortedListOfNumbers.executor": "Run",
+    "Python.SortingByCounting.executor": "Run",
+    "Python.check.executor": "Run",
+    "Python.find_article.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Dorota/PycharmProjects/NewTasks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ClassForQuadraticEquation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewTasks" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassForQuadraticEquation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuadraticEquation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewTasks" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QuadraticEquation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_article" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NewTasks" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find_article.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ClassForQuadraticEquation" />
+        <item itemvalue="Python.find_article" />
+        <item itemvalue="Python.QuadraticEquation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="" />
+      <created>1722081204265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722081204265</updated>
+      <workItem from="1722081205284" duration="185000" />
+      <workItem from="1722081448448" duration="589000" />
+      <workItem from="1722102444257" duration="218000" />
+      <workItem from="1722182635814" duration="6820000" />
+      <workItem from="1722274029495" duration="2945000" />
+      <workItem from="1722364246155" duration="1076000" />
+      <workItem from="1722447025789" duration="522000" />
+      <workItem from="1722615851144" duration="1476000" />
+      <workItem from="1722622496477" duration="1785000" />
+      <workItem from="1722696651122" duration="1991000" />
+      <workItem from="1722703752715" duration="286000" />
+      <workItem from="1722711955674" duration="4989000" />
+      <workItem from="1722717518267" duration="590000" />
+      <workItem from="1722789197219" duration="4169000" />
+      <workItem from="1722967926886" duration="1288000" />
+      <workItem from="1723056728510" duration="272000" />
+      <workItem from="1723057138983" duration="1459000" />
+      <workItem from="1723059211337" duration="1076000" />
+      <workItem from="1723299257331" duration="2019000" />
+      <workItem from="1723313913906" duration="1871000" />
+      <workItem from="1723392327027" duration="2404000" />
+      <workItem from="1723569360429" duration="904000" />
+      <workItem from="1723570364827" duration="164000" />
+      <workItem from="1724178487851" duration="2052000" />
+    </task>
+    <task id="LOCAL-00001" summary="quadratic equation script">
+      <option name="closed" value="true" />
+      <created>1722081652142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722081652142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delta calculation put in a function&#10;added docstrings&#10;added returns to functions&#10;added functions execution in try-except formula">
+      <option name="closed" value="true" />
+      <created>1722277604722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722277604722</updated>
+    </task>
+    <task id="LOCAL-00003" summary="integer changed into real">
+      <option name="closed" value="true" />
+      <created>1722364938617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722364938617</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed function of added another qe&#10;&#10;added function of constant addition to each coefficient of quadratic equation which is the  result of add function &#10;&#10;added descriptions">
+      <option name="closed" value="true" />
+      <created>1722716408707</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722716408707</updated>
+    </task>
+    <task id="LOCAL-00005" summary="changed function of added another qe&#10;&#10;added function of constant addition to each coefficient of quadratic equation which is the  result of add function &#10;&#10;added descriptions">
+      <option name="closed" value="true" />
+      <created>1722716686018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722716686018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="changed function of added another qe&#10;&#10;added function of constant addition to each coefficient of quadratic equation which is the  result of add function &#10;&#10;added descriptions">
+      <option name="closed" value="true" />
+      <created>1722716820613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722716820613</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added sorting numbers function&#10;added build-in sorting function">
+      <option name="closed" value="true" />
+      <created>1723057602937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723057602937</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added test">
+      <option name="closed" value="true" />
+      <created>1723059426096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723059426096</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added test">
+      <option name="closed" value="true" />
+      <created>1723059957590</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1723059957591</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="quadratic equation script" />
+    <MESSAGE value="delta calculation put in a function&#10;added docstrings&#10;added returns to functions&#10;added functions execution in try-except formula" />
+    <MESSAGE value="integer changed into real" />
+    <MESSAGE value="changed function of added another qe&#10;&#10;added function of constant addition to each coefficient of quadratic equation which is the  result of add function &#10;&#10;added descriptions" />
+    <MESSAGE value="added sorting numbers function&#10;added build-in sorting function" />
+    <MESSAGE value="added test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1724183565280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$check.coverage" NAME="check Coverage Results" MODIFIED="1722698450316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$SortedListOfNumbers.coverage" NAME="SortedListOfNumbers Coverage Results" MODIFIED="1723570216344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$SortingByCounting.coverage" NAME="SortingByCounting Coverage Results" MODIFIED="1724184291386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$find_article.coverage" NAME="find_article Coverage Results" MODIFIED="1722697344747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$QuadraticEquation.coverage" NAME="QuadraticEquation Coverage Results" MODIFIED="1722622444273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
