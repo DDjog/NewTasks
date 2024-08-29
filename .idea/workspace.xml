@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordsFromLetters.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +192,9 @@
       <workItem from="1724178487851" duration="2052000" />
       <workItem from="1724264224674" duration="3286000" />
       <workItem from="1724348939639" duration="2561000" />
-      <workItem from="1724436865933" duration="2044000" />
+      <workItem from="1724436865933" duration="2699000" />
+      <workItem from="1724590682845" duration="1201000" />
+      <workItem from="1724777763856" duration="3129000" />
     </task>
     <task id="LOCAL-00001" summary="quadratic equation script">
       <option name="closed" value="true" />
@@ -305,10 +308,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="added test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1724349148520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1724875697709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$check.coverage" NAME="check Coverage Results" MODIFIED="1722698450316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$SortedListOfNumbers.coverage" NAME="SortedListOfNumbers Coverage Results" MODIFIED="1723570216344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters.coverage" NAME="WordsFromLetters Coverage Results" MODIFIED="1724440513476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters.coverage" NAME="WordsFromLetters Coverage Results" MODIFIED="1724875703190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$SortingByCounting.coverage" NAME="SortingByCounting Coverage Results" MODIFIED="1724264295449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$find_article.coverage" NAME="find_article Coverage Results" MODIFIED="1722697344747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$QuadraticEquation.coverage" NAME="QuadraticEquation Coverage Results" MODIFIED="1722622444273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
