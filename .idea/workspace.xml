@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
-      <change afterPath="$PROJECT_DIR$/WordsFromLetters_enchant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameFigure2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameSinCos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameWindow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordsFromLetters.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_hunspell.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,32 +51,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.ClassForQuadraticEquation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.QuadraticEquation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortedListOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SortingByCounting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WordsFromLetters-pyspellchecker.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WordsFromLetters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WordsFromLetters_hunspell.executor&quot;: &quot;Run&quot;,
-    &quot;Python.check.executor&quot;: &quot;Run&quot;,
-    &quot;Python.find_article.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/Dorota/PycharmProjects/NewTasks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.ClassForQuadraticEquation.executor": "Run",
+    "Python.QuadraticEquation.executor": "Run",
+    "Python.SortedListOfNumbers.executor": "Run",
+    "Python.SortingByCounting.executor": "Run",
+    "Python.WordsFromLetters-pyspellchecker.executor": "Run",
+    "Python.WordsFromLetters.executor": "Run",
+    "Python.WordsFromLetters_hunspell.executor": "Run",
+    "Python.check.executor": "Run",
+    "Python.find_article.executor": "Run",
+    "Python.pygameFigure2D.executor": "Run",
+    "Python.pygameWindow.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Dorota/PycharmProjects/NewTasks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.ClassForQuadraticEquation">
+}]]></component>
+  <component name="RunManager">
     <configuration name="ClassForQuadraticEquation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NewTasks" />
       <option name="ENV_FILES" value="" />
@@ -201,7 +203,11 @@
       <workItem from="1724777763856" duration="3129000" />
       <workItem from="1724956920503" duration="2616000" />
       <workItem from="1725042691339" duration="3501000" />
-      <workItem from="1725129017702" duration="2089000" />
+      <workItem from="1725129017702" duration="2328000" />
+      <workItem from="1725214646765" duration="90000" />
+      <workItem from="1727118962322" duration="460000" />
+      <workItem from="1727206374203" duration="1409000" />
+      <workItem from="1727285405001" duration="2482000" />
     </task>
     <task id="LOCAL-00001" summary="quadratic equation script">
       <option name="closed" value="true" />
@@ -315,10 +321,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="added test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1724875697709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1727286781675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters_pyspellchecker.coverage" NAME="WordsFromLetters-pyspellchecker Coverage Results" MODIFIED="1725044770324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$check.coverage" NAME="check Coverage Results" MODIFIED="1722698450316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameWindow.coverage" NAME="pygameWindow Coverage Results" MODIFIED="1727287377765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$SortedListOfNumbers.coverage" NAME="SortedListOfNumbers Coverage Results" MODIFIED="1723570216344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameFigure2D.coverage" NAME="pygameFigure2D Coverage Results" MODIFIED="1727288701103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters.coverage" NAME="WordsFromLetters Coverage Results" MODIFIED="1724960462111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters_hunspell.coverage" NAME="WordsFromLetters_hunspell Coverage Results" MODIFIED="1725045150075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$SortingByCounting.coverage" NAME="SortingByCounting Coverage Results" MODIFIED="1724264295449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
