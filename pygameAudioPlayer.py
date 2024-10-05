@@ -2,7 +2,7 @@ import pygame
 from pygame import mixer
 
 pygame.init()
-mixer.music.load('spring-mood-wav-212731.mp3')
+mixer.music.load('XX.mp3')
 mixer.music.set_volume(0.5)
 
 screen = pygame.display.set_mode((500, 500))
