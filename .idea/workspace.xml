@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
-      <change afterPath="$PROJECT_DIR$/pygameFiguresRotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameAnalogClock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameFiguresRotation2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygameFiguresRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygameFiguresRotation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-mood-wav-212731.mp3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +65,11 @@
     &quot;Python.WordsFromLetters_hunspell.executor&quot;: &quot;Run&quot;,
     &quot;Python.check.executor&quot;: &quot;Run&quot;,
     &quot;Python.find_article.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pygameAnalogClock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pygameAudioPlayer.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameFigure2D.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameFiguresRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pygameFiguresRotation2.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameSinCos.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameSinCosOption.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameWindow.executor&quot;: &quot;Run&quot;,
@@ -215,6 +221,15 @@
       <workItem from="1727629152233" duration="3437000" />
       <workItem from="1727719043754" duration="2913000" />
       <workItem from="1727806570995" duration="3911000" />
+      <workItem from="1727894197895" duration="3199000" />
+      <workItem from="1727979321112" duration="3057000" />
+      <workItem from="1728069586474" duration="1744000" />
+      <workItem from="1728136864931" duration="215000" />
+      <workItem from="1728139866759" duration="819000" />
+      <workItem from="1728155228366" duration="2732000" />
+      <workItem from="1728237346579" duration="393000" />
+      <workItem from="1728324178329" duration="3439000" />
+      <workItem from="1728408585726" duration="3288000" />
     </task>
     <task id="LOCAL-00001" summary="quadratic equation script">
       <option name="closed" value="true" />
@@ -329,16 +344,19 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NewTasks$pygameSinCos.coverage" NAME="pygameSinCos Coverage Results" MODIFIED="1727629358148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameAnalogClock.coverage" NAME="pygameAnalogClock Coverage Results" MODIFIED="1728414399649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$pygameWindow.coverage" NAME="pygameWindow Coverage Results" MODIFIED="1727287377765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewTasks$pygameFigure2D.coverage" NAME="pygameFigure2D Coverage Results" MODIFIED="1727721751196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameFigure2D.coverage" NAME="pygameFigure2D Coverage Results" MODIFIED="1728157598753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters.coverage" NAME="WordsFromLetters Coverage Results" MODIFIED="1724960462111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$SortingByCounting.coverage" NAME="SortingByCounting Coverage Results" MODIFIED="1724264295449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1727286781675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameAudioPlayer.coverage" NAME="pygameAudioPlayer Coverage Results" MODIFIED="1727897758189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$ClassForQuadraticEquation.coverage" NAME="ClassForQuadraticEquation Coverage Results" MODIFIED="1728414394523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters_pyspellchecker.coverage" NAME="WordsFromLetters-pyspellchecker Coverage Results" MODIFIED="1725044770324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$check.coverage" NAME="check Coverage Results" MODIFIED="1722698450316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$SortedListOfNumbers.coverage" NAME="SortedListOfNumbers Coverage Results" MODIFIED="1723570216344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$pygameSinCosOption.coverage" NAME="pygameSinCosOption Coverage Results" MODIFIED="1727632601707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewTasks$pygameFiguresRotation.coverage" NAME="pygameFiguresRotation Coverage Results" MODIFIED="1727810274048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameFiguresRotation.coverage" NAME="pygameFiguresRotation Coverage Results" MODIFIED="1728156277866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameFiguresRotation2.coverage" NAME="pygameFiguresRotation2 Coverage Results" MODIFIED="1728330294637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters_hunspell.coverage" NAME="WordsFromLetters_hunspell Coverage Results" MODIFIED="1725045150075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$find_article.coverage" NAME="find_article Coverage Results" MODIFIED="1722697344747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$QuadraticEquation.coverage" NAME="QuadraticEquation Coverage Results" MODIFIED="1722622444273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
