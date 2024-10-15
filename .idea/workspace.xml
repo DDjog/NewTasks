@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
-      <change afterPath="$PROJECT_DIR$/pygameAnalogClock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygameFiguresRotation2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mixkit-morning-clock-alarm-1003.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pygameDigitalClock2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NewTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewTasks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygameFiguresRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygameFiguresRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-mood-wav-212731.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pygameDigitalClock.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygameDigitalClock.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +68,14 @@
     &quot;Python.find_article.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameAnalogClock.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameAudioPlayer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pygameDigitalClock2.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameFigure2D.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameFiguresRotation.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameFiguresRotation2.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameSinCos.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameSinCosOption.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameWindow.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -85,7 +88,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.ClassForQuadraticEquation">
     <configuration name="ClassForQuadraticEquation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NewTasks" />
       <option name="ENV_FILES" value="" />
@@ -230,6 +233,12 @@
       <workItem from="1728237346579" duration="393000" />
       <workItem from="1728324178329" duration="3439000" />
       <workItem from="1728408585726" duration="3288000" />
+      <workItem from="1728492824772" duration="3966000" />
+      <workItem from="1728585505126" duration="2562000" />
+      <workItem from="1728672858284" duration="1930000" />
+      <workItem from="1728723548482" duration="482000" />
+      <workItem from="1728816950722" duration="21000" />
+      <workItem from="1729011873964" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="quadratic equation script">
       <option name="closed" value="true" />
@@ -344,7 +353,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NewTasks$pygameSinCos.coverage" NAME="pygameSinCos Coverage Results" MODIFIED="1727629358148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NewTasks$pygameAnalogClock.coverage" NAME="pygameAnalogClock Coverage Results" MODIFIED="1728414399649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NewTasks$pygameAnalogClock.coverage" NAME="pygameAnalogClock Coverage Results" MODIFIED="1728496429220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$pygameWindow.coverage" NAME="pygameWindow Coverage Results" MODIFIED="1727287377765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$pygameFigure2D.coverage" NAME="pygameFigure2D Coverage Results" MODIFIED="1728157598753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NewTasks$WordsFromLetters.coverage" NAME="WordsFromLetters Coverage Results" MODIFIED="1724960462111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
