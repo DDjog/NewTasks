@@ -15,9 +15,11 @@ blink = False
 alarm = False
 
 
-def draw_time(alarm):
-    current_time = time.strftime("%H:%M:%S")
-
+def draw_time(alarm, blink):
+    if alarm and blink:
+        current_time = time.strftime("%H %M %S")
+    else:
+        current_time = time.strftime("%H:%M:%S")
     if alarm:
         screen.fill('red')
         text_color = 'yellow'
@@ -27,8 +29,11 @@ def draw_time(alarm):
         return
 
     time_render = font.render(current_time, True, text_color)
-    time_rect = time_render.get_rect(center=center)
-    pygame.draw.rect(screen, 'black', time_rect.inflate(40,40), 5)
+    time_rect = time_render.get_rect()
+    fixed_rect = pygame.Rect(0, 0, 300, 150)
+    fixed_rect.center = center
+    time_rect.center = fixed_rect.center
+    pygame.draw.rect(screen, 'black', fixed_rect, 5)
     screen.blit(time_render, time_rect)
 
 
@@ -36,7 +41,7 @@ def check_alarm():
     global blink, alarm
 
     current_time = time.strftime("%H:%M:%S")
-    alarm_time = "19:35:50"
+    alarm_time = "20:02:30"
 
     if current_time == alarm_time:
         if not alarm:
@@ -44,10 +49,9 @@ def check_alarm():
             alarm = True
     if alarm:
         blink = not blink
-        if blink:
-            draw_time(alarm=blink)
+        draw_time(alarm=True, blink=blink)
     else:
-        draw_time(alarm=False)
+        draw_time(alarm=False, blink=blink)
 
 
 running = True
@@ -55,6 +59,14 @@ while running:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_ESCAPE:
+                running = False
+        if event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_SPACE:
+                alarm = not alarm
+                pygame.mixer.Sound.stop(alarm_sound)
+
 
     screen.fill('white')
 
