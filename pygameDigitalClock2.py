@@ -209,7 +209,7 @@ def set_alarm_time():
     _alarm_t = f"{_alarm_hour:02}:{_alarm_minute:02}:{_alarm_second:02}"
 
 
-    print("Alarm time:", _alarm_t)
+    #print("Alarm time:", _alarm_t)
 
 def draw_alarm_rect():
 
@@ -265,11 +265,11 @@ while running:
                 pygame.mixer.Sound.stop(alarm_sound)
 
 
-        set_alarm_time()
-        draw_alarm_rect()
-        draw_set_alarm_time()
-        check_alarm()
-        pygame.display.flip()
+    set_alarm_time()
+    draw_alarm_rect()
+    draw_set_alarm_time()
+    check_alarm()
+    pygame.display.flip()
 
     _mpos = pygame.mouse.get_pos()
     px = _mpos[0]
