@@ -29,6 +29,7 @@ def root_configuration():
     root.columnconfigure(0, weight=5)
     root.columnconfigure(1, weight=1)
 
+
     e = Entry(root, width=50)
     e.grid(row=1, column=0, padx=10, pady=10)
 
@@ -44,11 +45,16 @@ def root_configuration():
     text_list = Listbox(root, width=60, height=15)
     text_list.grid(row=4, column=0, columnspan=2, sticky='nsew', padx=10, pady=10)
 
+    vertical_bar = Scale(root, from_=0, to=40, command=text_list.yview)
+    vertical_bar.grid(row=4, column=1, columnspan=2, sticky='nsew')
+
     button_copy_to_clipboard = Button(root, text='Copy to clipboard', command=gtc)
     button_copy_to_clipboard.grid(row=5, column=0, sticky='e', padx=10, pady=10)
 
     button_quit = Button(root, text='Close', command=root.destroy)
     button_quit.grid(row=5, column=1, columnspan=2, sticky='e', padx=10, pady=10)
+
+
 
 def generate_words():
     text = e.get()

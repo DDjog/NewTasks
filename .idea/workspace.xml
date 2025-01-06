@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
-      <change beforePath="$PROJECT_DIR$/.idea/NewTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewTasks.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordsFromLetters_hunspell.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_hunspell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker_GUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
