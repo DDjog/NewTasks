@@ -1,8 +1,8 @@
 import hunspell
 from itertools import permutations
 letters = ['a', 'c', 'e', 'i', 'l', 's', 'y', 'z', 'z']
-aff_file = '/User/Dorota/Downloads/pl-dict.aff'
-dic_file = '/User/Dorota/Downloads/pl-dict.dic'
+aff_file = '/Users/dorota/Downloads/en_US.aff'
+dic_file = '/Users/dorota/Downloads/en_US.dic'
 #
 hspell = hunspell.HunSpell(dic_file, aff_file)
 
@@ -42,8 +42,13 @@ def find_words(hspell, letters):
     return words_list, words_list_3_4
 #
 #
-rslt = find_words(hspell, letters)
-print(rslt)
+# rslt = find_words(hspell, letters)
+# print(rslt)
+print(hspell.spell('correct'))
+print(hspell.spell('incorect'))
+string = "a,b,a,f,e,i"
+words = string.split(',')
+print(words)
 
 
 

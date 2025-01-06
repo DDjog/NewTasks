@@ -40,3 +40,7 @@ def find_words(spell, letters):
 
 rslt = find_words(spell, letters)
 print(rslt)
+
+string = "one,two,three"
+words = string.split(',')
+print(words)

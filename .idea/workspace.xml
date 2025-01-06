@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8afb9958-e50b-4384-bd1a-7788193d6092" name="Changes" comment="added test">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mixkit-morning-clock-alarm-1003.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pygameDigitalClock2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/NewTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewTasks.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygameDigitalClock.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygameDigitalClock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordsFromLetters_hunspell.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_hunspell.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker_GUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/WordsFromLetters_pyspellchecker_GUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DDjog&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:DDjog/NewTasks.git&quot;,
+    &quot;accountId&quot;: &quot;043b7f74-f5f4-4267-be90-34fec60be5b1&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/QuadraticEquation.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -63,7 +75,10 @@
     &quot;Python.SortingByCounting.executor&quot;: &quot;Run&quot;,
     &quot;Python.WordsFromLetters-pyspellchecker.executor&quot;: &quot;Run&quot;,
     &quot;Python.WordsFromLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WordsFromLetters_enchant.executor&quot;: &quot;Run&quot;,
     &quot;Python.WordsFromLetters_hunspell.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WordsFromLetters_pyspellchecker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WordsFromLetters_pyspellchecker_GUI.executor&quot;: &quot;Run&quot;,
     &quot;Python.check.executor&quot;: &quot;Run&quot;,
     &quot;Python.find_article.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameAnalogClock.executor&quot;: &quot;Run&quot;,
@@ -75,6 +90,7 @@
     &quot;Python.pygameSinCos.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameSinCosOption.executor&quot;: &quot;Run&quot;,
     &quot;Python.pygameWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -85,10 +101,11 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ClassForQuadraticEquation">
+  <component name="RunManager">
     <configuration name="ClassForQuadraticEquation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NewTasks" />
       <option name="ENV_FILES" value="" />
@@ -169,8 +186,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
-        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
